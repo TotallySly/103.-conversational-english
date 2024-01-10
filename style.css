@@ -1,1 +1,4 @@
-
+.hero-image-container h5,
+p {
+    color: black;
+}
